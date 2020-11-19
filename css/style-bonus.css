@@ -1,0 +1,30 @@
+[class*="col-"]{
+  height: 100px;
+}
+
+.container{
+  background-color: #fff
+}
+
+.col-col{
+  width: 50%;
+  border: 1px solid black;
+  height: 50%;
+  float: left;
+}
+
+.black{
+  background-color: black;
+}
+
+.orange{
+  background-color: darkorange;
+}
+
+.red{
+  background-color: red;
+}
+
+.yellow{
+  background-color: yellow;
+}
